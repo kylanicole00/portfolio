@@ -2,7 +2,7 @@
   <br>
   React Portfolio Website
   <br>
-  <a href="https://joakimeineving.se/" target="_blank">joakimeineving.se</a>
+  <a href="https://github.com/kylanicole00" target="_blank">kylanicole55</a>
 </h1>
 
 <h4 align="center">Resposive Portfolio Website built with <a href="https://reactjs.org/" target="_blank">React</a>.</h4>
@@ -15,7 +15,7 @@ To clone and run this application, you'll need [Git](https://git-scm.com) and [N
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/JoakimEineving/portfolio-website
+$ git clone https://github.com/kylanicole00/portfolio
 
 # Navigate into the repository
 $ cd portfolio-website
